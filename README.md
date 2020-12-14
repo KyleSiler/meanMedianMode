@@ -1,0 +1,1 @@
+Generated from AWS Blank-Java template
